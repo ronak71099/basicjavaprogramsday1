@@ -1,7 +1,5 @@
 package dec18;
-import java.time.LocalDate;
-import java.time.LocalTime;
-import java.time.*;
+
 class PassO {
     static int s;
     public static void main(String [] args)
